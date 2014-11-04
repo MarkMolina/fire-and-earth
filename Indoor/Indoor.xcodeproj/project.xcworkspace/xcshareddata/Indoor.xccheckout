@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F2F9477E-7F7F-43FF-A98D-D6D350458B78</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Indoor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>455D24FDB13BD9B314E1D671F4F37862A8D733DC</key>
+		<string>github.com:MarkMolina/winter-is-coming.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Indoor/Indoor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>455D24FDB13BD9B314E1D671F4F37862A8D733DC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:MarkMolina/winter-is-coming.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>455D24FDB13BD9B314E1D671F4F37862A8D733DC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>455D24FDB13BD9B314E1D671F4F37862A8D733DC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>winter-is-coming</string>
+		</dict>
+	</array>
+</dict>
+</plist>

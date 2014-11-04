@@ -1,0 +1,16 @@
+PODS:
+  - EstimoteSDK (2.1.5)
+  - FLKAutoLayout (0.1.1)
+  - Reachability (3.1.1)
+
+DEPENDENCIES:
+  - EstimoteSDK
+  - FLKAutoLayout
+  - Reachability
+
+SPEC CHECKSUMS:
+  EstimoteSDK: 1a8184137ab16615b982efd0804aa711a0262ce7
+  FLKAutoLayout: 9fa39aac2903b274fbeed6be74154cdb937a04fc
+  Reachability: 8e9635e3cb4f98e7f825e51147f677ecc694d0e7
+
+COCOAPODS: 0.34.1
